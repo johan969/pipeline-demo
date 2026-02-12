@@ -30,7 +30,6 @@ jobs:
         with:
           context: .
           push: true
-          tags: johan969/pipeline-demo:dev
-
+          tags: johan969/pipeline-demo:1.0.0
 
 
